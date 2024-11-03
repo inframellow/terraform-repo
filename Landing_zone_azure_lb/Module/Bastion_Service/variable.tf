@@ -1,0 +1,1 @@
+variable "bast_details" {}
